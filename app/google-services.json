@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160780087999",
+    "firebase_url": "https://publicgrievancesystem.firebaseio.com",
+    "project_id": "publicgrievancesystem",
+    "storage_bucket": "publicgrievancesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160780087999:android:c08730c9fba1dd39",
+        "android_client_info": {
+          "package_name": "com.example.anshulgera.publicgrievanceportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160780087999-1csb9ktujuasgp835kcq73p25l89rj4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anshulgera.publicgrievanceportal",
+            "certificate_hash": "3E84B110D8AC9A908A8A74D4A92ADBCE7D7E557B"
+          }
+        },
+        {
+          "client_id": "160780087999-h9cs7gp784aqkhat2kp6aumpmarljjcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDgb_TdByQgrlHGYBaOK1ZwTxwYycNpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160780087999-h9cs7gp784aqkhat2kp6aumpmarljjcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
